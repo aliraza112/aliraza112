@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliraza112
-- 👀 I’m interested in Android & IOT Development 
+- 👀 I’m interested in Mobile Application & IOT Development 
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me raza79618@gmail.com
