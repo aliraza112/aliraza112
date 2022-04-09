@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliraza112
+- 👋 Hi, I’m Syed Ali Raza
 - 👀 I’m interested in Mobile Application & IOT Development 
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android projects
