@@ -36,7 +36,7 @@ I’ve collaborated with global brands, enterprise teams, and startups—deliver
 ---
 
 ## 📈 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliraza112&show_icons=true&theme=tokyonight)
 
 ---
 
