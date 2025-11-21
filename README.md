@@ -34,12 +34,12 @@ I’ve collaborated with global brands, enterprise teams, and startups—deliver
 - UI/UX-driven product development  
 
 ---
-
+<!---
 ## 📈 GitHub Stats
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliraza112&show_icons=true&theme=tokyonight)
 
 ---
-
+--->
 ## 📫 **Reach Me**
 📧 Email: **raza79618@gmail.com**  
 🔗 Portfolio Website: *(add once ready)*  
