@@ -42,8 +42,8 @@ I’ve collaborated with global brands, enterprise teams, and startups—deliver
 --->
 ## 📫 **Reach Me**
 📧 Email: **raza79618@gmail.com**  
-🔗 Portfolio Website: *(add once ready)*  
-🔗 LinkedIn: *(optional)*  
+🔗 Portfolio Website: *https://syedali.dev/*  
+🔗 LinkedIn: *https://www.linkedin.com/in/syedali-android-developer*
 
 ---
 
